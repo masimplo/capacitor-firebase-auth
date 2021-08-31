@@ -1,6 +1,6 @@
 {
 	"name": "capacitor-firebase-auth",
-	"version": "2.4.0",
+	"version": "2.4.1",
 	"description": "Capacitor plugin for Firebase Authentication",
 	"main": "dist/esm/index.js",
 	"types": "dist/esm/index.d.ts",
@@ -19,8 +19,8 @@
 	"devDependencies": {
 		"rimraf": "^3.0.0",
 		"typescript": "^3.9.5 || ^4.0.0",
-		"@capacitor/ios": "latest",
-		"@capacitor/android": "latest"
+		"@capacitor/ios": "2.4.7",
+		"@capacitor/android": "2.4.7"
 	},
 	"peerDependencies": {
 		"firebase": "^8.0.0",
